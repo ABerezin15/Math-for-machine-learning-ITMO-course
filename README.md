@@ -1,1 +1,1 @@
-# Math-for-machine-learning-ITMO-course
+# Math for machine learning | ITMO course
